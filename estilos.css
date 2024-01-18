@@ -1,0 +1,17 @@
+ul{
+	color:green;
+}
+
+nav ul{background:gray;}
+div ul{background:yellow}
+
+div.UNO{background:blue;}
+div.DOS{ background:orange;}
+div.TRES{background:pink;}
+p{
+font-style:italic;
+}
+
+div.TRES p{
+	font-size:30px;
+}
